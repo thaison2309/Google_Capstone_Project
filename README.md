@@ -1,4 +1,4 @@
-# Google_Capstone_Project changlog for Excel Sheet
+# Google_Capstone_Project changelog for Excel Sheet
 
 ## Add column ride_length
  - The column cell value is calculated by substracting end_at column by start_at column
