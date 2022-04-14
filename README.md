@@ -11,6 +11,7 @@
    + [Divv_Trips_2019_Q3](https://divvy-tripdata.s3.amazonaws.com/Divvy_Trips_2019_Q2.zip)
    + [Divv_Trips_2019_Q4](https://divvy-tripdata.s3.amazonaws.com/Divvy_Trips_2019_Q2.zip)
    + [Divv_Trips_2021_Q1](https://divvy-tripdata.s3.amazonaws.com/Divvy_Trips_2019_Q2.zip) 
+  - All of the datasets contain
  - The tool I use in this project is R programming language, an open-source, efficient language for data analytics
  - The processing phase of the project has solved many issues with the data frames such as different column numbers, names; combining all data source into one **consistent** data frame; extracting utilizable data; removing unwanted data.
  ## Solutions
@@ -22,4 +23,4 @@
    ![Number of rides](https://github.com/thaison2309/Google_Capstone_Project/blob/main/Number%20of%20rides%20by%20rider%20types.png?raw=true)
    ![Average duration](https://github.com/thaison2309/Google_Capstone_Project/blob/95bfdbdc9750984bf29aa4f8436d864d588e4832/Average%20trip%20duration%20by%20riger%20types.png)
   
-   - Looking at the bar chart we could easily
+   - Looking at the bar chart we could easily notice that number of rides made by member users exceeded that of casual users on every weekday which could be understandable as number of member users is threefold larger than that of the casual users. However, when it comes to average trip duration, casual users completely outstrip the member users. This could imply that casual users are mostly first-time users or visitors who only want to experience the service and rent a a bike to take on a trip to visit the city while frequent users are those who refer to this service commuting to work.
