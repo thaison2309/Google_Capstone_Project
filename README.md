@@ -18,3 +18,8 @@
   - I also utilize some librares to analyze data (calculating mean for each type of users) and then visualize the result for further analysis
   ## Conclusion
    - After a lot of data cleaning and analyzing, I could finally create some data visualizations out of the dataset:
+   
+   ![Number of rides](https://github.com/thaison2309/Google_Capstone_Project/blob/main/Number%20of%20rides%20by%20rider%20types.png?raw=true)
+   ![Average duration](https://github.com/thaison2309/Google_Capstone_Project/blob/95bfdbdc9750984bf29aa4f8436d864d588e4832/Average%20trip%20duration%20by%20riger%20types.png)
+  
+   - Looking at the bar chart we could easily
