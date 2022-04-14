@@ -17,7 +17,7 @@
  ## Solutions
   - R programming language offers a wide range of data manipulating libraries so that I could use and tackling the aforementioned problems
   - I also utilize some librares to analyze data (calculating mean, number of rides for each type of users) and then visualize the result for further analysis about customers' behaviour.
-  - My detailed data cleaning and analyzing processes are stored in [this R script]
+  - My detailed data cleaning and analyzing processes are stored in [this R script](https://github.com/thaison2309/Google_Capstone_Project/blob/cb9df24418f067efd3feed45eb680ab6bc140ad7/R-anlysis-case-study.R)
   ## Conclusion
    - After a lot of data cleaning and analyzing, I could finally create some data visualizations out of the dataset:
    
